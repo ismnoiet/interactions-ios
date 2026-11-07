@@ -2,5 +2,6 @@
 iOS Interactions
 
 
-- [AndroidStyleNotificationGroup](https://github.com/ismnoiet/interactions-ios/blob/main/AndroidStyleNotificationGroup.swift)
-- [ClaudeStyleNavigation](https://github.com/ismnoiet/interactions-ios/blob/main/ClaudeStyleNavigation.swift)
+- [AndroidStyleNotificationIconTray](./AndroidStyleNotificationIconTray.swift)
+- [AndroidStyleNotificationGroup](./AndroidStyleNotificationGroup.swift)
+- [ClaudeStyleNavigation](./ClaudeStyleNavigation.swift)
